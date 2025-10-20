@@ -4,18 +4,9 @@
 <h3 align="center">Estudante de Sistemas de Informação • Desenvolvedor de Software • Visionário em Tecnologia</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigocotrin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cmp.1a.rodrigocotrinsilva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-8a2be2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rodrigo_cotrin/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8a2be2?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/RodrigoCotrin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/rodrigocotrin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:cmp.1a.contato@rodrigocotrin.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.instagram.com/rodrigo_cotrin/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
@@ -44,16 +35,12 @@
 
 #### 🧰 Frameworks & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,bootstrap,nodejs,express,fastapi" /><br>
-  <img src="https://img.shields.io/badge/Selenium-8a2be2?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-8a2be2?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-8a2be2?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-8a2be2?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,bootstrap,nodejs,express,fastapi,selenium,unity" />
 </p>
 
 #### ☁️ Ambientes & Plataformas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
 </p>
 
 ---
@@ -67,11 +54,11 @@
 
 ---
 
-### 📈 Atividade Recentes
+### 📈 Atividade Recente
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoCotrin&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area=false&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&
