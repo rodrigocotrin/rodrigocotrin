@@ -25,7 +25,7 @@
 
 #### ⚙️ Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,cs" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs" />
 </p>
 
 #### 🗄️ Bancos de Dados
@@ -35,7 +35,7 @@
 
 #### 🧰 Frameworks & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,bootstrap,nodejs,express,fastapi,selenium,unity" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,fastapi,selenium,django,dotnet,unity,spring" />
 </p>
 
 #### ☁️ Ambientes & Plataformas
